@@ -21,4 +21,4 @@
 username  (Choose Own)
 password  (Choose Owm)
 
-Brought to you by: www.CampCodes.com
+
